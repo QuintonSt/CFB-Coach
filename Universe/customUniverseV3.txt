@@ -11,16 +11,16 @@ Mt West
 Sun Belt
 [END_CONFERENCES]
 [START_TEAMS]
-Clemson, CLEM, ACC, 85, WAKE, 3
-Duke, DUKE, ACC, 53, UNC, 3
-Florida State, FSU, ACC, 65, MIA, 3
-Georgia Tech, GT, ACC, 48, NCST, 3
-Louisville, LOUI, ACC, 72, PITT, 4
-Miami, MIA, ACC, 78, FSU, 3
-North Carolina, UNC, ACC, 45, DUKE, 3
-NC State, NCST, ACC, 69, GT, 3
-Pittsburgh, PITT, ACC, 64, LOUI, 3
-Wake Forest, WAKE, ACC, 52, CLEM, 3
+Clemson, CLEM, ACC, 90, WAKE, TEX, 3
+Duke, DUKE, ACC, 90, UNC, 3
+Florida State, FSU, ACC, 90, MIA, 3
+Georgia Tech, GT, ACC, 90, NCST, 3
+Louisville, LOUI, ACC, 90, PITT, 4
+Miami, MIA, ACC, 99, FSU, 3
+North Carolina, UNC, ACC, 90, DUKE, 3
+NC State, NCST, ACC, 90, GT, 3
+Pittsburgh, PITT, ACC, 90, LOUI, 3
+Wake Forest, WAKE, ACC, 90, CLEM, 3
 Virginia, VIR, ACC, 50, VTEC, 3
 Virginia Tech, VTEC, ACC, 73, VIR, 3
 [END_CONF]
@@ -45,7 +45,7 @@ Kansas, KAN, Big 12, 30, KSU, 1
 Kansas State, KSU, Big 12, 66, KAN, 1
 Oklahoma, OKL, Big 12, 80, TEX, 1
 Oklahoma State, OKST, Big 12, 76, TXAM, 1
-Texas, TEX, Big 12, 68, OKL, 1
+Texas, TEX, Big 12, 99, OKL, CLEM, OKST,TTEC, TXAM, BAY, 1
 Texas AM, TXAM, Big 12, 67, OKST, 1
 TCU, TCU, Big 12, 75, BAY, 1
 Missouri, MIZ, Big 12, 53, ISU, 1
